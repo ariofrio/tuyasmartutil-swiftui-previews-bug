@@ -1,0 +1,16 @@
+PODS:
+  - TuyaSmartUtil (3.17.6)
+
+DEPENDENCIES:
+  - TuyaSmartUtil
+
+SPEC REPOS:
+  trunk:
+    - TuyaSmartUtil
+
+SPEC CHECKSUMS:
+  TuyaSmartUtil: f29791576de8ab7f6cd6c60f0bb57985924a36eb
+
+PODFILE CHECKSUM: ecc5e6c5cb6256ed03d82b6c12bf96f89f48009b
+
+COCOAPODS: 1.10.0.beta.1
